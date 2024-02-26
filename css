@@ -2,3 +2,15 @@ header {
     background-color: darkgray;
     color: black;
 }
+.cabecalho{
+
+    background-color: forestgreen;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-lista-item{
+display: inline-block;
+
+}
